@@ -1,0 +1,178 @@
+.navbar {
+    background-color:#e1bee7 !important;
+}
+
+.nav-link{
+    color: black !important;
+    font-size: bold !important;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#cart_count{
+    text-align: center !important;
+    padding: 5px 5px 5px 5px !important;
+    border-radius: 100px !important;
+}
+
+
+.dropdown-menu{
+    background-color: #ba68c8 !important ;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: bold !important;
+}
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+   font-size: bold !important;
+}
+.fa-cart-arrow-down,.fa-user-circle{
+    font-size: 30px !important;
+}
+
+
+
+
+.wo{
+    color: purple;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.me{
+    color: purple;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.pr{
+    color: purple;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.sh{
+    color: purple;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.g{
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.w{
+    color: black;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h3{
+    color: purple;
+}
+
+.fa-truck{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: purple;
+}
+.fa-headphones{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: purple ;
+
+}
+.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px !important;
+    color: purple ;
+
+
+}
+
+.card1,.card2,.card3{
+    display: flex;
+    width: 300px;
+    height: 60px;
+    background-color: white;
+    box-shadow: 2px 4px 5px purple;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.new{
+    margin-top: 50px;
+}
+
+.card0{
+    width: 250px;
+    height: auto !important;
+    margin-bottom: 5px;
+
+    
+}
+
+.foo{
+    width: 100%;
+    background-color: purple;
+    height: 70px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+h4{
+    color: white;
+}
+
+
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: purple;
+    margin: 20px;
+    font-size: 440;
+}
+
+.heading >h1{
+    text-shadow: 2px 2px 4px rgb(219, 115, 219);
+}
+
+.card-text{
+    font-weight: bold;
+}
+
+.btn-primary{
+    width: 100%;
+    background-color: purple;
+}
+
+.fa-star,.fa-star-half{
+    color: purple !important;
+    padding: 3% 0% !important;
+}
+
+@media screen and (mix-width: 600px){
+    .card1,.card2,.card3 {
+        width: 100% !important;
+    }
+}

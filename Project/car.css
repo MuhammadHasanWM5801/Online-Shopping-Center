@@ -1,0 +1,19 @@
+#cart_count{
+    text-align: center !important;
+    padding: 5px 5px 5px 5px !important;
+    border-radius: 100px !important;
+    font-weight: bolder;
+    color: rgb(224, 155, 224) !important;
+}
+
+.shopping-cart{
+    padding: 3% 0;
+}
+
+.cart-item + .cart-item{
+    padding: 2% 0;
+}
+
+.price-detail h6{
+    padding: 3% 2%;
+}

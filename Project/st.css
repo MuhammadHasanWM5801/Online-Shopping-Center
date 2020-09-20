@@ -1,0 +1,91 @@
+body{
+    background: linear-gradient(rgba(0, 0 , 50, 0.5),rgba(0, 0, 50, 0.5)),url(f.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+
+}
+.l1{
+
+   
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.u1{
+
+    
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.p1{
+
+    
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.login-left{
+    background: rgba(211, 211 , 211, 0.5);
+    padding: 30px;
+}
+
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+
+.form-control{
+    background-color: transparent !important;
+}
+
+/* a{
+    color: #fff;
+    margin-top: -200px;
+    
+    
+   
+    
+
+} */
+
+h1{
+    color: #fff ;
+    margin: 200px ;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
